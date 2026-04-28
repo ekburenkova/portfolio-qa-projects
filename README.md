@@ -4,7 +4,7 @@
 
 **Автор:** Буренкова Екатерина Николаевна  
 **Резюме на hh.ru:** https://hh.ru/resume/fed5f4e0ff100acd490039ed1f5a495a38596e  
-**Резюме в PDF:** [Burenkova Ekaterina QA resume.pdf](https://github.com/user-attachments/files/27121098/Burenkova.Ekaterina.QA.resume.pdf)  
+**Резюме в PDF:** [Burenkova.Ekaterina.QA.resume.pdf](https://github.com/user-attachments/files/27155640/Burenkova.Ekaterina.QA.resume.pdf)
 **Email:** ditropalagen@gmail.com  
 
 # Мои QA проекты
